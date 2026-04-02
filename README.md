@@ -9,6 +9,8 @@
 ### Activity 2
 1. 2D platformer genre 
 2. core mechanics are turn based, combat, health bar system, platforming
+3. <img width="922" height="697" alt="unnamed" src="https://github.com/user-attachments/assets/aac1833b-30c6-4aeb-adef-c4ac64aef4b4" />
+
 
 
 ## W2
