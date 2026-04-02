@@ -7,7 +7,8 @@
 3. The LA taste in game is that they like to play a lot fo fanstasy games for example breath of the wild, open world aspects, a lot similar to my peers. 
 
 ### Activity 2
-Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
+1. 2D platformer genre 
+2. core mechanics are turn based, combat, health bar system, platforming
 
 
 ## W2
