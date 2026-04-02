@@ -1,11 +1,10 @@
 # GDIM 33 In-Class Activities
 ## W1
 ### Activity 1
-Put your inspo board link here. Do NOT leave a bare URL. REMOVE ALL INSTRUCTIONAL TEXT.
-
-1. Put your activity 1 answers here.
-2. Please keep the proper list format.
-
+[Inspirational board](https://docs.google.com/drawings/d/1dr1KRww7tM6Abjm2_kDQVk039oA6CF7bDKHd7vt23xM/edit?usp=sharing)
+1. patterns that are emerging in this are surivval open world and horror elements within this 
+2. Chatted with one of my tablemates and they are itnerested in the surival mechanics of their game another mentioned the open world fantasy aspects
+3. The LA taste in game is that they like to play a lot fo fanstasy games for example breath of the wild, open world aspects, a lot similar to my peers. 
 
 ### Activity 2
 Put your activity 2 image here. REMOVE THIS INSTRUCTIONAL TEXT.
