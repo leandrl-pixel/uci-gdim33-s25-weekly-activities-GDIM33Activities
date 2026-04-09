@@ -14,6 +14,7 @@
 
 
 ## W2
-Write your W2 Devlog here.
+### Activity 1
+1. [link to commit](https://github.com/leandrl-pixel/uci-gdim33-s25-weekly-activities-GDIM33Activities/commit/13f7986cedac19b680b45eaebd18752d8af450c1)
 
 Continue adding additional headers below this one for future weeks and future activities.
