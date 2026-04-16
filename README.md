@@ -21,7 +21,8 @@ Continue adding additional headers below this one for future weeks and future ac
 
 ## W3 
 ### Activity 1
-1. 
+1. <img width="936" height="715" alt="Screenshot 2026-04-15 220653" src="https://github.com/user-attachments/assets/b22ce5af-6295-4f32-80fd-622b4ef367a9" />
+
 
 
 ### Activity 2 
