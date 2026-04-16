@@ -18,3 +18,10 @@
 1. [link to commit](https://github.com/leandrl-pixel/uci-gdim33-s25-weekly-activities-GDIM33Activities/commit/13f7986cedac19b680b45eaebd18752d8af450c1)
 
 Continue adding additional headers below this one for future weeks and future activities.
+
+## W3 
+### Activity 1 
+1. It is advantageous to save the event for the explore to dialouge state state transistions as a vairbale clickNPCEventName as a scene variable because it alows us to access it from any graph in the scene
+2. using a debug log is for when the walrus is clicked was really helpful due to allowing us to see when there were indirect errors if it was firing or not 
+3. For mine it is not relvant because my game wont require any use for any camera locks for my NPC and since I am doing 2D the perspective will mainly be on the player from left to right. 
+4. The concept of the game state will be relevant in my game since when I am doing 2D for my movement I will need movements and powerups that will have different states of movements and different states of stats like increase in damage, speed, dash. 
