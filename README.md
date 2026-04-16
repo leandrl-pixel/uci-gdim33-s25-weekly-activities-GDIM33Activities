@@ -20,7 +20,11 @@
 Continue adding additional headers below this one for future weeks and future activities.
 
 ## W3 
-### Activity 1 
+### Activity 1
+1. 
+
+
+### Activity 2 
 1. It is advantageous to save the event for the explore to dialouge state state transistions as a vairbale clickNPCEventName as a scene variable because it alows us to access it from any graph in the scene
 2. using a debug log is for when the walrus is clicked was really helpful due to allowing us to see when there were indirect errors if it was firing or not 
 3. For mine it is not relvant because my game wont require any use for any camera locks for my NPC and since I am doing 2D the perspective will mainly be on the player from left to right. 
