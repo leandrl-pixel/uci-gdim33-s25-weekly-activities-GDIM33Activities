@@ -29,4 +29,10 @@ Continue adding additional headers below this one for future weeks and future ac
 1. It is advantageous to save the event for the explore to dialouge state state transistions as a vairbale clickNPCEventName as a scene variable because it alows us to access it from any graph in the scene
 2. using a debug log is for when the walrus is clicked was really helpful due to allowing us to see when there were indirect errors if it was firing or not 
 3. For mine it is not relvant because my game wont require any use for any camera locks for my NPC and since I am doing 2D the perspective will mainly be on the player from left to right. 
-4. The concept of the game state will be relevant in my game since when I am doing 2D for my movement I will need movements and powerups that will have different states of movements and different states of stats like increase in damage, speed, dash. 
+4. The concept of the game state will be relevant in my game since when I am doing 2D for my movement I will need movements and powerups that will have different states of movements and different states of stats like increase in damage, speed, dash
+
+## W4 
+
+### Activity 1 
+1. In my build right now what is playable is the basic movement from the player and the ground working as intended for going up and down, with decrative designs 
+2. My playtesting goal is to add animations, different states, and perhaps a powerup 
