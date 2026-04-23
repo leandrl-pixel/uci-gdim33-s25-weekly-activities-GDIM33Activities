@@ -40,3 +40,4 @@ Continue adding additional headers below this one for future weeks and future ac
 
 ### Activity 2 
 1. Yes, a writer could add more dialogue without writing code. The system uses ScriptableObjects for each dialogue node, once you got everything set up then the writer can make more new nodes type in different dialouges. They dont really need to touch the scripts of code unless they want t change how the system overall works. 
+2. I am thinking that ther eis not really a hard limit for the dialouge node but the main limtation might be the UI, the user interface, especially with the nodes being too vast that it may end up getting difficult and complex making someone lost if they work on it for big amount of time. 
