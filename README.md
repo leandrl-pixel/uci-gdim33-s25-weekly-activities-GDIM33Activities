@@ -42,3 +42,19 @@ Continue adding additional headers below this one for future weeks and future ac
 1. Yes, a writer could add more dialogue without writing code. The system uses ScriptableObjects for each dialogue node, once you got everything set up then the writer can make more new nodes type in different dialouges. They dont really need to touch the scripts of code unless they want t change how the system overall works. 
 2. I am thinking that ther eis not really a hard limit for the dialouge node but the main limtation might be the UI, the user interface, especially with the nodes being too vast that it may end up getting difficult and complex making someone lost if they work on it for big amount of time. 
 3. The purpose of regenerate nodes button is so that visual scripting is updated and properly in unity, for example if someone is making a custom event its not going to appear yet in the nodes while there working on it so they have to regnerate it so that it appears its kinda like the github where we push our commits to update our main branch in this case the regenerating nodes is updating our branch for any changes. 
+
+## W5 
+### Activity 1 
+
+#### Step 1: Create a tilemap  
+1. this is done by getting your assests and making a scene 
+2. slice sprite into different tiles in the pallete
+3. add the tile map assests into the tile pallete 
+
+#### Step 2: Make a tilemap trap in the scene & script that influences 
+1. add normal tiles into this scene to make into the ground 
+2. Add the tiles that you want to make them special which in this case these tiles are going to be traps. Add sprite tilemap that looks like it will harm the player, or some type of color indicator. 
+3. create both a trap script and health script, the trap script will influence the players current health and if they fall into the ground there HP will decrease, influencing the players HP (health). This will be done using the oncollision2D method. When this method runs it will take away a certain amount of health. add a debug log or a ui text that updates the score of the players health.
+
+### Activty 2 
+1. Made the tilemap assets then added then into the ground for the scene. I added the traps which all damage the player a bit, I made a tilemap for the traps and are categorize as that and this tilemap specifically influences the players health. 2 scripts where created in this which are for the players health and the other is for trap collisions. 
