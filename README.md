@@ -57,4 +57,17 @@ Continue adding additional headers below this one for future weeks and future ac
 3. create both a trap script and health script, the trap script will influence the players current health and if they fall into the ground there HP will decrease, influencing the players HP (health). This will be done using the oncollision2D method. When this method runs it will take away a certain amount of health. add a debug log or a ui text that updates the score of the players health.
 
 ### Activty 2 
-1. Made the tilemap assets then added then into the ground for the scene. I added the traps which all damage the player a bit, I made a tilemap for the traps and are categorize as that and this tilemap specifically influences the players health. 2 scripts where created in this which are for the players health and the other is for trap collisions. 
+1. Made the tilemap assets then added then into the ground for the scene. I added the traps which all damage the player a bit, I made a tilemap for the traps and are categorize as that and this tilemap specifically influences the players health. 2 scripts where created in this which are for the players health and the other is for trap collisions which will be used for future implementation. 
+
+## W6 
+### Activity 1 
+1. Implemented new animations states via visual scripting with a state graph. kept color changes. WASD controls, blue means inactive, red means active, these colors are for indicating if the different states are working via visual scripting. 
+2. [Link to itch page](https://leandrl.itch.io/playtest-v2)
+3. Animations are smooth in the playtest however some bugs noted in the experince where the animations states being lagged, so I need to figure out if I did a has exit time in one of my sections. Also another bug noted in my platform was on the edge on the player is grounded and there sort of hovering or floating in the air. I need something to do, like make things interactable with the player my next steps to do are implementing challenges to the player to make an overall interactable experince   
+4. In other words, my goal is to resolve bugs in my playtest and make an overall interactable experince for my player  
+
+### Activity 2 
+1. It results in a dark and less saturated color than the input colors because the RGB values are stored as either 0.0 or 1 values. For example when you multiply both numbers in the range its going to lead to a more smaller input. Like two decimals multiplying and since each RGB channel gets low the resulting color becomes darker.it can also look less satuarted due to the strong colors channels being reduced. 
+2. Multiplying the aplpha values usually makes the result more translucent as aplha is also stored as a 0 to 1 value where 0 means that its fully  transparent when its just zero making ti completely invisible, and then 1 when its fully opaque. Multiplying the two values usually gives a smaller one so the result is going to be more transparent and more translucent thant the orignal value. 
+3. The shader gets UV values from the mesh as the UV coordinates are stored on the model vertex data. Each vertex may have the UV coordinates that show in the shader which part of the texture maps onto the mesh. Unity uses the UV and passes it into the shader and the sample texture of 2d node uses it to sample. 
+4. It sounds really cool that were able to manipulate colors with math and im exicted to see what else will do, especially vfx. 
