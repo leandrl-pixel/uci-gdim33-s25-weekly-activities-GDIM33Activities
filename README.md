@@ -71,3 +71,13 @@ Continue adding additional headers below this one for future weeks and future ac
 2. Multiplying the aplpha values usually makes the result more translucent as aplha is also stored as a 0 to 1 value where 0 means that its fully  transparent when its just zero making ti completely invisible, and then 1 when its fully opaque. Multiplying the two values usually gives a smaller one so the result is going to be more transparent and more translucent thant the orignal value. 
 3. The shader gets UV values from the mesh as the UV coordinates are stored on the model vertex data. Each vertex may have the UV coordinates that show in the shader which part of the texture maps onto the mesh. Unity uses the UV and passes it into the shader and the sample texture of 2d node uses it to sample. 
 4. It sounds really cool that were able to manipulate colors with math and im exicted to see what else will do, especially vfx. 
+
+## W7 
+### Activity 1 
+1. This data comes from the mesh first, and mesh vertices contain data other than just a position. vertex data also includes UVs and surface normals. 
+2. our blend of all of the colors of V1, V2, and V3 dpending on the fragment sdistance from each distance. Data is interpolated blended between the 3 vertices that make up a triangle. 
+3. I think the reason why its less detailed is because we have not done anything to it but just input the shaders into the shiba. As for the vector color I imagine its useful because it allows you to assign colors directly to the vertices of the mesh which allow for effects like graidents or color based visualzations 
+4. a surface normal is a 3d vector descirbing the direction a surface is point in, normals are prependicular to the surface there sticking out of. But as for the shibas mesh vertex normals nothing seems wrong yet 
+5. One piece of vertex data or any kind of data that I can imagine testing with a debug shader...
+6. There is an error in the lighting step for 4 on the back of the shiba because... 
+7. I think we set the blend mode to additive for the fire effect in step 5 because... 
