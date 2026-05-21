@@ -88,3 +88,10 @@ Continue adding additional headers below this one for future weeks and future ac
 - [link to itch page](https://leandrl.itch.io/playtest-sword-game-wip)
 - my playtesting goals are to figure out the level of difficulty on the game, see feedback on what needs to be added more, and any potential bugs that need to be resolves 
 - playtesting notes: bug in collider the player slightly does not touch the ground fix that, force of the jump appear to be too slow i would do osmething with the force jump, more content but overall great game. 
+
+### Activity 2B 
+1. The fraction node is used to animate the shine effect because of how it influences time because of the value of time keeps increasing the result of the fract time gives us a decimal value therefore it is constantly looping from 0.0 to 0.99
+2. Because the Add node adds the Shine texture to the original sprite texture. Black has a color value of 0 I think so adding black does not change the original sprite. 
+3.  because (1) for MainTex, the SpriteRenderer automatically assigns the attached Sprite in the Component settings to the Material; (2) MaskTex is also automatically assigned; (3) NormalMap is set to a reasonable default value by the shader; and (4) ShinyTex was given a default value of the "poof" 
+4. We multiply time and shine speed with the variable inside because were able to influence the effect of how it shines more often therefore leading to a more desired time of how fast or slow we want our shine to be on our gameobject. 
+
