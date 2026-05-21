@@ -81,3 +81,10 @@ Continue adding additional headers below this one for future weeks and future ac
 5. One piece of vertex data or any kind of data that I can imagine testing with a debug shader is that im feeding the shader one simple data point just to check that everything shows up correctly like color or shading 
 6. There is an error in the lighting step for 4 on the back of the shiba because of the surface normal and light direction are pointing in the same direction therefore it leads to inconsitencies in lighting needing to make a fix for lighting changes, so we need to multiply out main light direction by a float node with a value of -1 and then the type -1 in the input port of this node. Multiplying a vector by -1 reverses the direction of the vector, in other words, it makes it in the correct lighiting direction. 
 7. I think we set the blend mode to additive for the fire effect in step 5 because it changes how it interactas with the enviroment in unity, for example if we set it to alpha the colors become more strong, whereas when we change the blend into additive it makes the colors more softer but adds a somewhat glowing effect. When we connect to the channels and we make it more brighter thats why it looks softer the effects because of the brightness
+
+## W8
+### Activity 1 
+- whats new for my build in milestone 2 submission is that I added newer traps, although slightly incomplete it will be a lot different than my normal traps which are 
+- [link to itch page](https://leandrl.itch.io/playtest-sword-game-wip)
+- my playtesting goals are to figure out the level of difficulty on the game, see feedback on what needs to be added more, and any potential bugs that need to be resolves 
+- playtesting notes: bug in collider the player slightly does not touch the ground fix that, force of the jump appear to be too slow i would do osmething with the force jump, more content but overall great game. 
