@@ -84,7 +84,7 @@ Continue adding additional headers below this one for future weeks and future ac
 
 ## W8
 ### Activity 1 
-- whats new for my build in milestone 2 submission is that I added newer traps, although slightly incomplete it will be a lot different than my normal traps which are 
+- whats new for my build in milestone 2 submission is that I added newer traps, although slightly incomplete it will be a lot different than my normal traps which are standard hits eveytime the player hits the ground or moves
 - [link to itch page](https://leandrl.itch.io/playtest-sword-game-wip)
 - my playtesting goals are to figure out the level of difficulty on the game, see feedback on what needs to be added more, and any potential bugs that need to be resolves 
 - playtesting notes: bug in collider the player slightly does not touch the ground fix that, force of the jump appear to be too slow i would do osmething with the force jump, more content but overall great game. 
