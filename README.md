@@ -95,3 +95,9 @@ Continue adding additional headers below this one for future weeks and future ac
 3.  because (1) for MainTex, the SpriteRenderer automatically assigns the attached Sprite in the Component settings to the Material; (2) MaskTex is also automatically assigned; (3) NormalMap is set to a reasonable default value by the shader; and (4) ShinyTex was given a default value of the "poof" 
 4. We multiply time and shine speed with the variable inside because were able to influence the effect of how it shines more often therefore leading to a more desired time of how fast or slow we want our shine to be on our gameobject. 
 
+## W9 
+### Activity 1 
+1. Step 1: game we choose was blashpemous the dashing speed effect
+2. an effect would be in the characters shader where after we sample the characters texture an optional tint and this ins a red or blue tint and were activating and then deactive and building this in the shader  in the tint. Is we could a timer in the shader. We would tell the material the character press a buttion and inside the shader we do the math since it got pressed and a duration and we only want the red tint only 2 seconds and do the math and figure it out since its been pressed.  
+### Activity 2 
+Step 2: 
