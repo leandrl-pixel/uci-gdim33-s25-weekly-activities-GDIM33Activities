@@ -100,4 +100,4 @@ Continue adding additional headers below this one for future weeks and future ac
 1. Step 1: game we choose was blashpemous the dashing speed effect
 2. an effect would be in the characters shader where after we sample the characters texture an optional tint and this ins a red or blue tint and were activating and then deactive and building this in the shader  in the tint. Is we could a timer in the shader. We would tell the material the character press a buttion and inside the shader we do the math since it got pressed and a duration and we only want the red tint only 2 seconds and do the math and figure it out since its been pressed.  
 ### Activity 2 
-Step 2: 
+1. <img width="1919" height="1018" alt="Screenshot 2026-05-27 182310" src="https://github.com/user-attachments/assets/50690b3b-689f-4db7-8c49-3d1278610ffd" />
