@@ -101,4 +101,17 @@ Continue adding additional headers below this one for future weeks and future ac
 2. an effect would be in the characters shader where after we sample the characters texture an optional tint and this ins a red or blue tint and were activating and then deactive and building this in the shader  in the tint. Is we could a timer in the shader. We would tell the material the character press a buttion and inside the shader we do the math since it got pressed and a duration and we only want the red tint only 2 seconds and do the math and figure it out since its been pressed.  
 ### Activity 2 
 1. <img width="1919" height="1018" alt="Screenshot 2026-05-27 182310" src="https://github.com/user-attachments/assets/50690b3b-689f-4db7-8c49-3d1278610ffd" />
-2. a problem I solved was changing the time that interacts with the shader, for example if was not shining properly, and I need to adjust. 
+2. a problem I solved was changing the time that interacts with the shader, for example this was not shining properly, and I need to adjust. 
+
+## W10
+### Activity 1 
+1. What I added since my milestone 2 was updating the map around the game, making it more harder to win and get to the checkpoint. 
+2. [link to itch page](https://leandrl.itch.io/playtest-w10)
+3. What I hope to get out of my playtest is see the scope of the difficulity 
+4. Playtest notes: camera is too small so adjust in itch, shaders need improvement specfically the power up, would like to see sword and block be used for certain traps. 
+
+### Activity 2 
+1. if were making another game we need a bubble diagram and doing 2 or 3 things. It wont be as much and building around, the bubble diagram its important as you update if you plan to add feature and you dont know how they connect and you know how it connects to the game. Another thing for bubble diagram is the scope and scaling of the entire project youll figure out how much will it be the scope of how large the project will be. when your talking about planning the core mechanics and when your going into it break it down in a bubble diagram and how they will interact with them and when it gets in the project if the mechanics become large it wont be really easy and it will take you 3 weeks. realizing your time and doing 1 or 2 than getting too ambitous
+
+### Activity 3 
+1. a problem I solved was the dissolve shader it was not working as intended with how it interacted with my player. The shader would completely cover my gameobject and not trigger right, I had to change the rgb values and make it transparent to work properly. 
